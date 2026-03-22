@@ -23164,6 +23164,7 @@ body[data-type="fcircle"] #page {
   min-width: 200px;
   height: 24%;
   width: 100%;
+  display: none;
 
   animation: slide-in 0.6s 0.2s backwards;
 }
