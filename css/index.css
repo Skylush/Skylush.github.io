@@ -23837,7 +23837,7 @@ div#swiper_container:hover {
 }
 
 .topGroup {
-  height: 340px;
+  height: 200px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
