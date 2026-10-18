@@ -5,8 +5,16 @@
   <link href="https://blog.ooork.com/atom.xml" rel="self"/>
   <link href="https://blog.ooork.com/"/>
   <id>https://blog.ooork.com/</id>
-  <updated>2026-10-18T05:51:38.714Z</updated>
+  <updated>2026-10-18T14:06:52.432Z</updated>
   <author><name>Lusky</name></author>
+  <entry>
+    <title>DartNode Flash Special - NVMe-1 Plan</title>
+    <link href="https://blog.ooork.com/posts/DartNode%20Flash%20Special%20-%20NVMe-1%20Plan/"/>
+    <id>https://blog.ooork.com/posts/DartNode%20Flash%20Special%20-%20NVMe-1%20Plan/</id>
+    <published>2026-10-18T12:41:12.000Z</published>
+    <updated>2026-10-18T12:41:12.000Z</updated>
+    <summary>DartNode Flash Special - NVMe-1 Plan 美国 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
   <entry>
     <title>BWH US Los Angeles California DC2 AO USCA_2</title>
     <link href="https://blog.ooork.com/posts/BWH%20US%20Los%20Angeles%20California%20DC2%20AO%20USCA_2/"/>
@@ -398,13 +406,5 @@
     <published>2026-06-19T15:12:38.000Z</published>
     <updated>2026-06-19T15:12:38.000Z</updated>
     <summary>GoMami USA Pulse 美国 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>DataWave JP STD 1T</title>
-    <link href="https://blog.ooork.com/posts/DataWave%20JP%20STD%201T/"/>
-    <id>https://blog.ooork.com/posts/DataWave%20JP%20STD%201T/</id>
-    <published>2026-06-18T04:49:40.000Z</published>
-    <updated>2026-06-18T04:49:40.000Z</updated>
-    <summary>DataWave JP STD 1T 日本 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
   </entry>
 </feed>
