@@ -5,8 +5,56 @@
   <link href="https://blog.ooork.com/atom.xml" rel="self"/>
   <link href="https://blog.ooork.com/"/>
   <id>https://blog.ooork.com/</id>
-  <updated>2026-09-22T08:52:16.257Z</updated>
+  <updated>2026-10-18T05:25:38.604Z</updated>
   <author><name>Lusky</name></author>
+  <entry>
+    <title>BWH US Los Angeles California DC2 AO USCA_2</title>
+    <link href="https://blog.ooork.com/posts/BWH%20US%20Los%20Angeles%20California%20DC2%20AO%20USCA_2/"/>
+    <id>https://blog.ooork.com/posts/BWH%20US%20Los%20Angeles%20California%20DC2%20AO%20USCA_2/</id>
+    <published>2026-10-09T12:00:44.000Z</published>
+    <updated>2026-10-09T12:00:44.000Z</updated>
+    <summary>BWH US Los Angeles California DC2 AO USCA_2 美国 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
+  <entry>
+    <title>BWH US New York Coresite NY1 CN2GIA-E_CMIN2_CUP USNY_8</title>
+    <link href="https://blog.ooork.com/posts/BWH%20US%20New%20York%20Coresite%20NY1%20CN2GIA-E_CMIN2_CUP%20USNY_8/"/>
+    <id>https://blog.ooork.com/posts/BWH%20US%20New%20York%20Coresite%20NY1%20CN2GIA-E_CMIN2_CUP%20USNY_8/</id>
+    <published>2026-10-05T00:12:51.000Z</published>
+    <updated>2026-10-05T00:12:51.000Z</updated>
+    <summary>BWH US New York Coresite NY1 CN2GIA-E_CMIN2_CUP USNY_8 美国 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
+  <entry>
+    <title>BWH CA British Columbia, Vancouver AMD-F_NVMe CABC_1</title>
+    <link href="https://blog.ooork.com/posts/BWH%20CA%20British%20Columbia,%20Vancouver%20AMD-F_NVMe%20CABC_1/"/>
+    <id>https://blog.ooork.com/posts/BWH%20CA%20British%20Columbia,%20Vancouver%20AMD-F_NVMe%20CABC_1/</id>
+    <published>2026-09-30T04:46:10.000Z</published>
+    <updated>2026-09-30T04:46:10.000Z</updated>
+    <summary>BWH CA British Columbia, Vancouver AMD-F_NVMe CABC_1 综合 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
+  <entry>
+    <title>BWH EU Amsterdam Netherlands DC2 AMD EUNL_2</title>
+    <link href="https://blog.ooork.com/posts/BWH%20EU%20Amsterdam%20Netherlands%20DC2%20AMD%20EUNL_2/"/>
+    <id>https://blog.ooork.com/posts/BWH%20EU%20Amsterdam%20Netherlands%20DC2%20AMD%20EUNL_2/</id>
+    <published>2026-09-27T02:11:33.000Z</published>
+    <updated>2026-09-27T02:11:33.000Z</updated>
+    <summary>BWH EU Amsterdam Netherlands DC2 AMD EUNL_2 欧洲 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
+  <entry>
+    <title>BWH Japan Osaka Softbank JPOS_1</title>
+    <link href="https://blog.ooork.com/posts/BWH%20Japan%20Osaka%20Softbank%20JPOS_1/"/>
+    <id>https://blog.ooork.com/posts/BWH%20Japan%20Osaka%20Softbank%20JPOS_1/</id>
+    <published>2026-09-24T03:20:55.000Z</published>
+    <updated>2026-09-24T03:20:55.000Z</updated>
+    <summary>BWH Japan Osaka Softbank JPOS_1 日本 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
+  <entry>
+    <title>DMIT HKG-AS3-T1</title>
+    <link href="https://blog.ooork.com/posts/DMIT%20HKG-AS3-T1/"/>
+    <id>https://blog.ooork.com/posts/DMIT%20HKG-AS3-T1/</id>
+    <published>2026-09-22T13:13:06.000Z</published>
+    <updated>2026-09-22T13:13:06.000Z</updated>
+    <summary>DMIT HKG-AS3-T1 香港 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
   <entry>
     <title>BWH UAE Dubai AEDXB 1</title>
     <link href="https://blog.ooork.com/posts/BWH%20UAE%20Dubai%20AEDXB_1/"/>
@@ -358,53 +406,5 @@
     <published>2026-06-18T04:49:40.000Z</published>
     <updated>2026-06-18T04:49:40.000Z</updated>
     <summary>DataWave JP STD 1T 日本 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>IE OVH SG</title>
-    <link href="https://blog.ooork.com/posts/IE%20OVH%20SG/"/>
-    <id>https://blog.ooork.com/posts/IE%20OVH%20SG/</id>
-    <published>2026-06-17T06:27:47.000Z</published>
-    <updated>2026-06-17T06:27:47.000Z</updated>
-    <summary>IE OVH SG 新加坡 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>YXVM Hybrid 5U</title>
-    <link href="https://blog.ooork.com/posts/YXVM%20Hybrid%205U/"/>
-    <id>https://blog.ooork.com/posts/YXVM%20Hybrid%205U/</id>
-    <published>2026-06-15T07:02:45.000Z</published>
-    <updated>2026-06-15T07:02:45.000Z</updated>
-    <summary>YXVM Hybrid 5U 新加坡 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>酷网云 HK.EN1.B -wawo 39</title>
-    <link href="https://blog.ooork.com/posts/%E9%85%B7%E7%BD%91%E4%BA%91%20HK.EN1.B%20-wawo%2039/"/>
-    <id>https://blog.ooork.com/posts/%E9%85%B7%E7%BD%91%E4%BA%91%20HK.EN1.B%20-wawo%2039/</id>
-    <published>2026-06-12T05:39:21.000Z</published>
-    <updated>2026-06-12T05:39:22.000Z</updated>
-    <summary>酷网云 HK.EN1.B -wawo 39 香港 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>酷网云 HK.EN1.B</title>
-    <link href="https://blog.ooork.com/posts/%E9%85%B7%E7%BD%91%E4%BA%91%20HK.EN1.B/"/>
-    <id>https://blog.ooork.com/posts/%E9%85%B7%E7%BD%91%E4%BA%91%20HK.EN1.B/</id>
-    <published>2026-06-11T14:41:58.000Z</published>
-    <updated>2026-06-11T14:41:59.000Z</updated>
-    <summary>酷网云 HK.EN1.B 香港 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>DataWave TW STD 1T</title>
-    <link href="https://blog.ooork.com/posts/DataWave%20TW%20STD%201T/"/>
-    <id>https://blog.ooork.com/posts/DataWave%20TW%20STD%201T/</id>
-    <published>2026-06-04T09:20:47.000Z</published>
-    <updated>2026-06-04T09:20:48.000Z</updated>
-    <summary>DataWave TW STD 1T 台湾 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>DataWave HK STD 1T</title>
-    <link href="https://blog.ooork.com/posts/DataWave%20HK%20STD%201T/"/>
-    <id>https://blog.ooork.com/posts/DataWave%20HK%20STD%201T/</id>
-    <published>2026-06-04T09:20:41.000Z</published>
-    <updated>2026-06-04T09:20:42.000Z</updated>
-    <summary>DataWave HK STD 1T 香港 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
   </entry>
 </feed>
