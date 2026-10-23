@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="shade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#071426" stop-opacity=".98"/><stop offset=".62" stop-color="#071426" stop-opacity=".76"/><stop offset="1" stop-color="#071426" stop-opacity=".12"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#65d7ff"/><stop offset="1" stop-color="#8c7bff"/></linearGradient></defs>
+<image href="/img/vps-cover-base.png" width="1200" height="630" preserveAspectRatio="xMidYMid slice"/>
+<rect width="1200" height="630" fill="url(#shade)"/>
+<rect x="70" y="82" width="8" height="466" rx="4" fill="url(#accent)"/>
+<text x="112" y="150" fill="#79dfff" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="5">VPS REVIEW</text>
+<text x="112" y="275" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="68" font-weight="800">AetherCloud</text>
+<text x="116" y="342" fill="#d7e8ff" font-family="Arial,Helvetica,sans-serif" font-size="31">香港 · 云服务器性能测评</text>
+<rect x="114" y="410" width="270" height="62" rx="31" fill="#ffffff" fill-opacity=".12" stroke="#9bdfff" stroke-opacity=".5"/>
+<text x="249" y="451" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700">配置 · 线路 · 性能</text>
+<text x="112" y="530" fill="#a6bddb" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="2">SKY 酒馆 · VPS BENCHMARK</text>
+</svg>
