@@ -5,8 +5,16 @@
   <link href="https://blog.ooork.com/atom.xml" rel="self"/>
   <link href="https://blog.ooork.com/"/>
   <id>https://blog.ooork.com/</id>
-  <updated>2026-10-18T14:06:52.432Z</updated>
+  <updated>2026-10-23T10:03:23.286Z</updated>
   <author><name>Lusky</name></author>
+  <entry>
+    <title>BLACK-FRIDAY-2025-SE-AMD-EPYC-7002-1C-1GIB-10GIB-2TIB</title>
+    <link href="https://blog.ooork.com/posts/Heartbeat%20IT%20BLACK-FRIDAY-2025-SE-AMD-EPYC-7002-1C-1GIB-10GIB-2TIB/"/>
+    <id>https://blog.ooork.com/posts/Heartbeat%20IT%20BLACK-FRIDAY-2025-SE-AMD-EPYC-7002-1C-1GIB-10GIB-2TIB/</id>
+    <published>2026-10-23T09:30:00.000Z</published>
+    <updated>2026-10-23T09:30:00.000Z</updated>
+    <summary>BLACK-FRIDAY-2025-SE-AMD-EPYC-7002-1C-1GIB-10GIB-2TIB 欧洲 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
   <entry>
     <title>DartNode Flash Special - NVMe-1 Plan</title>
     <link href="https://blog.ooork.com/posts/DartNode%20Flash%20Special%20-%20NVMe-1%20Plan/"/>
@@ -398,13 +406,5 @@
     <published>2026-06-20T06:56:24.000Z</published>
     <updated>2026-06-20T06:56:24.000Z</updated>
     <summary>Zouter JP BGP Global- Standard 日本 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>GoMami USA Pulse</title>
-    <link href="https://blog.ooork.com/posts/GoMami%20USA%20Pulse/"/>
-    <id>https://blog.ooork.com/posts/GoMami%20USA%20Pulse/</id>
-    <published>2026-06-19T15:12:38.000Z</published>
-    <updated>2026-06-19T15:12:38.000Z</updated>
-    <summary>GoMami USA Pulse 美国 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
   </entry>
 </feed>
