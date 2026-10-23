@@ -2990,26 +2990,6 @@ img:not([src]) {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   filter: alpha(opacity=0);
 }
-img[data-lazy-src]:not(.loaded) {
-  filter: blur(8px) brightness(1);
-}
-img[data-lazy-src].error {
-  filter: none;
-  opacity: 1 !important;
-  -ms-filter: none !important;
-  filter: none !important;
-}
-img[data-lazy-src]:not(.loaded) {
-  opacity: 0;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-  filter: alpha(opacity=0);
-}
-img[src=''],
-img:not([src]) {
-  opacity: 0;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-  filter: alpha(opacity=0);
-}
 .img-alt {
   font-size: 12px;
   margin: 0;
@@ -19361,7 +19341,7 @@ p.p.gray {
   filter: brightness(0.8);
 }
 [data-theme='dark'] img {
-  filter: blur(0) brightness(0.8);
+  filter: brightness(0.8);
 }
 [data-theme='dark'] #aside-content .aside-list > .aside-list-item:not(:last-child) {
   border-bottom: 1px dashed rgba(255,255,255,0.1);
@@ -20339,6 +20319,59 @@ html.hide-aside .layout > div:first-child {
   border: var(--style-border);
   box-shadow: var(--anzhiyu-shadow-border);
   user-select: none;
+}
+
+/* 首页固定置顶文章轮播 */
+.pinned-post-carousel {
+  position: relative;
+  margin: 0 0 24px;
+  padding: 0 42px;
+}
+.pinned-carousel-viewport {
+  overflow: hidden;
+  border-radius: 14px;
+}
+.pinned-carousel-track {
+  display: flex;
+  gap: 24px;
+  transition: transform .45s ease;
+}
+.pinned-post-card {
+  flex: 0 0 calc(50% - 12px);
+  min-width: 0;
+  overflow: hidden;
+  background: var(--anzhiyu-card-bg);
+  border: var(--style-border);
+  border-radius: 14px;
+  box-shadow: var(--anzhiyu-shadow-border);
+}
+.pinned-post-cover {
+  display: block;
+  height: 250px;
+  overflow: hidden;
+  background: #071426;
+}
+.pinned-post-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform .4s ease;
+}
+.pinned-post-card:hover .pinned-post-cover img { transform: scale(1.04); }
+.pinned-post-info { padding: 18px 22px 20px; }
+.pinned-post-label { color: var(--anzhiyu-theme); font-size: 13px; }
+.pinned-post-title { display: block; margin-top: 8px; color: var(--anzhiyu-fontcolor); font-size: 20px; font-weight: 700; line-height: 1.45; }
+.pinned-post-meta { margin-top: 12px; color: var(--anzhiyu-secondtext); font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.pinned-carousel-button { position: absolute; top: 42%; z-index: 2; width: 34px; height: 34px; border: 0; border-radius: 50%; background: var(--anzhiyu-card-bg); color: var(--anzhiyu-fontcolor); box-shadow: var(--anzhiyu-shadow-border); cursor: pointer; font-size: 25px; line-height: 25px; }
+.pinned-carousel-prev { left: 0; }
+.pinned-carousel-next { right: 0; }
+.pinned-carousel-dots { display: flex; justify-content: center; gap: 7px; margin-top: 12px; }
+.pinned-carousel-dot { width: 8px; height: 8px; padding: 0; border: 0; border-radius: 50%; background: var(--anzhiyu-secondtext); opacity: .35; cursor: pointer; }
+.pinned-carousel-dot.active { background: var(--anzhiyu-theme); opacity: 1; }
+@media screen and (max-width: 768px) {
+  .pinned-post-carousel { padding: 0 30px; }
+  .pinned-post-card { flex-basis: 100%; }
+  .pinned-post-cover { height: 210px; }
 }
 /* 移动端容器padding */
 @media screen and (max-width: 768px) {
