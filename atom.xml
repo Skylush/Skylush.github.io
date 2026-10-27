@@ -5,8 +5,16 @@
   <link href="https://blog.ooork.com/atom.xml" rel="self"/>
   <link href="https://blog.ooork.com/"/>
   <id>https://blog.ooork.com/</id>
-  <updated>2026-10-23T15:49:44.155Z</updated>
+  <updated>2026-10-27T12:37:43.429Z</updated>
   <author><name>Lusky</name></author>
+  <entry>
+    <title>Beszel 部署文档</title>
+    <link href="https://blog.ooork.com/posts/tutorials/beszel-deployment/"/>
+    <id>https://blog.ooork.com/posts/tutorials/beszel-deployment/</id>
+    <published>2026-10-27T12:21:48.000Z</published>
+    <updated>2026-10-27T12:21:48.000Z</updated>
+    <summary>Beszel 部署文档 教程 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
   <entry>
     <title>BLACK-FRIDAY-2025-SE-AMD-EPYC-7002-1C-1GIB-10GIB-2TIB</title>
     <link href="https://blog.ooork.com/posts/Heartbeat%20IT%20BLACK-FRIDAY-2025-SE-AMD-EPYC-7002-1C-1GIB-10GIB-2TIB/"/>
@@ -398,13 +406,5 @@
     <published>2026-06-21T13:49:50.000Z</published>
     <updated>2026-06-21T13:49:50.000Z</updated>
     <summary>VpsTown 2H2G.26-618.存储型.HKG-A1 香港 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>Zouter JP BGP Global- Standard</title>
-    <link href="https://blog.ooork.com/posts/Zouter%20JP%20BGP%20Global-%20Standard/"/>
-    <id>https://blog.ooork.com/posts/Zouter%20JP%20BGP%20Global-%20Standard/</id>
-    <published>2026-06-20T06:56:24.000Z</published>
-    <updated>2026-06-20T06:56:24.000Z</updated>
-    <summary>Zouter JP BGP Global- Standard 日本 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
   </entry>
 </feed>
