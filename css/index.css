@@ -20500,11 +20500,13 @@ html.hide-aside .layout > div:first-child {
 
 .tutorial-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: 1fr;
   gap: 1rem;
 }
 
 .tutorial-card {
+  display: grid;
+  grid-template-columns: minmax(240px, 30%) 1fr;
   overflow: hidden;
   border: 1px solid var(--anzhiyu-card-border);
   border-radius: 16px;
@@ -20520,7 +20522,7 @@ html.hide-aside .layout > div:first-child {
 
 .tutorial-card-cover {
   display: block;
-  height: 180px;
+  min-height: 190px;
   overflow: hidden;
   background: #202536;
 }
@@ -20537,7 +20539,10 @@ html.hide-aside .layout > div:first-child {
 }
 
 .tutorial-card-body {
-  padding: 1rem 1.1rem 1.15rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1.25rem 1.5rem;
 }
 
 .tutorial-card-meta {
@@ -20573,6 +20578,7 @@ html.hide-aside .layout > div:first-child {
 }
 
 .tutorial-card-link {
+  align-self: flex-start;
   color: var(--anzhiyu-theme);
   font-size: 0.88rem;
   font-weight: 600;
@@ -20596,6 +20602,15 @@ html.hide-aside .layout > div:first-child {
 
   .tutorial-grid {
     grid-template-columns: 1fr;
+  }
+
+  .tutorial-card {
+    display: block;
+  }
+
+  .tutorial-card-cover {
+    height: 180px;
+    min-height: 0;
   }
 }
 
