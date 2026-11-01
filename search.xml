@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>【测评】【VPS.TAXI】【SG ISP】</title>
+      <link href="/posts/VPS.TAXI%20SG%20ISP/"/>
+      <url>/posts/VPS.TAXI%20SG%20ISP/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>本文为 VPS.TAXI SG ISP VPS 测试数据整理，包含机器配置、硬件性能、线路质量、回程路由、延迟、IP 质量与流媒体解锁等结果。</p></blockquote><h2 id="机器配置"><a href="#机器配置" class="headerlink" title="机器配置"></a>机器配置</h2><table><thead><tr><th align="center">VPS 购买地址⬇️</th><th>推荐码</th><th align="center">SKU</th><th align="center">CPU</th><th align="center">RAM</th><th align="center">SSD</th><th align="center">Traffic</th><th align="center">IP</th><th align="center">限时价格</th></tr></thead><tbody><tr><td align="center"><a href="https://my.vps.taxi/order/forms/a/MTY5NQ==">vps.taxi</a></td><td></td><td align="center"><strong>新加坡 ISP</strong></td><td align="center">2C</td><td align="center">2G</td><td align="center">25G</td><td align="center">8T&#x2F; 1Gbps</td><td align="center">IPv4</td><td align="center"><strong>10USD&#x2F;Month</strong></td></tr></tbody></table><hr><h2 id="系统参数硬件性能"><a href="#系统参数硬件性能" class="headerlink" title="系统参数硬件性能"></a>系统参数硬件性能</h2><hr><p><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031184140228.png" alt="image-20261031184140228"></p><hr><h2 id="ITdog-—-IPv4-质量测试"><a href="#ITdog-—-IPv4-质量测试" class="headerlink" title="ITdog — IPv4 质量测试"></a>ITdog — IPv4 质量测试</h2><table><thead><tr><th align="center">CM</th><th align="center">CU</th><th align="center">CT</th></tr></thead><tbody><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031184653309.png" alt="image-20261031184653309"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031184901391.png" alt="image-20261031184901391"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031185136658.png" alt="image-20261031185136658"></td></tr></tbody></table><hr><h2 id="Connectivity"><a href="#Connectivity" class="headerlink" title="Connectivity"></a>Connectivity</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031185348047.png" alt="image-20261031185348047"></th></tr></thead></table><hr><h2 id="去程路由"><a href="#去程路由" class="headerlink" title="去程路由"></a>去程路由</h2><table><thead><tr><th align="center"></th><th align="center">CM</th><th align="center">CU</th><th align="center">CT</th></tr></thead><tbody><tr><td align="center">北京</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031185656704.png" alt="image-20261031185656704"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031185718433.png" alt="image-20261031185718433"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031185735242.png" alt="image-20261031185735242"></td></tr><tr><td align="center">上海</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031185755478.png" alt="image-20261031185755478"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031185811546.png" alt="image-20261031185811546"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031185827891.png" alt="image-20261031185827891"></td></tr><tr><td align="center">广东</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031185851543.png" alt="image-20261031185851543"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031185906251.png" alt="image-20261031185906251"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031185920803.png" alt="image-20261031185920803"></td></tr></tbody></table><hr><h2 id="回程路由"><a href="#回程路由" class="headerlink" title="回程路由"></a>回程路由</h2><table><thead><tr><th align="center">北京</th><th align="center">上海</th><th align="center">广东</th></tr></thead><tbody><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190011483.png" alt="image-20261031190011483"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190026241.png" alt="image-20261031190026241"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190041670.png" alt="image-20261031190041670"></td></tr></tbody></table><hr><h2 id="国内三网延迟"><a href="#国内三网延迟" class="headerlink" title="国内三网延迟"></a>国内三网延迟</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190103534.png" alt="image-20261031190103534"></th></tr></thead></table><hr><h2 id="IP-质量"><a href="#IP-质量" class="headerlink" title="IP 质量"></a>IP 质量</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190120282.png" alt="image-20261031190120282"></th></tr></thead></table><hr><h2 id="流媒体解锁"><a href="#流媒体解锁" class="headerlink" title="流媒体解锁"></a>流媒体解锁</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190146390.png" alt="image-20261031190146390"></th></tr></thead></table><h2 id="TCP-重传检测"><a href="#TCP-重传检测" class="headerlink" title="TCP 重传检测"></a>TCP 重传检测</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190214311.png" alt="image-20261031190214311"></th><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190229143.png" alt="image-20261031190229143"></th><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190300688.png" alt="image-20261031190300688"></th><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190333571.png" alt="image-20261031190333571"></th><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190347213.png" alt="image-20261031190347213"></th></tr></thead></table><hr><h2 id="心跳线"><a href="#心跳线" class="headerlink" title="心跳线"></a>心跳线</h2><p><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190605206.png" alt="image-20261031190605206"></p><hr><h2 id="Speedtest"><a href="#Speedtest" class="headerlink" title="Speedtest"></a>Speedtest</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190705103.png" alt="image-20261031190705103"></th><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031190725375.png" alt="image-20261031190725375"></th></tr></thead></table><hr><h2 id="IPerf3（本地电信-100M）"><a href="#IPerf3（本地电信-100M）" class="headerlink" title="IPerf3（本地电信 100M）"></a>IPerf3（本地电信 100M）</h2><table><thead><tr><th align="center">UP</th><th align="center">DOWN</th></tr></thead><tbody><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031193719304.png" alt="image-20261031193719304"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031193743840.png" alt="image-20261031193743840"></td></tr></tbody></table><hr><h2 id="Speedtest（本地电信-100M-·-Tuic）"><a href="#Speedtest（本地电信-100M-·-Tuic）" class="headerlink" title="Speedtest（本地电信 100M · Tuic）"></a>Speedtest（本地电信 100M · Tuic）</h2><table><thead><tr><th align="center">多线程</th><th align="center">单线程</th></tr></thead><tbody><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031191237098.png" alt="image-20261031191237098"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031191401581.png" alt="image-20261031191401581"></td></tr></tbody></table><hr><h2 id="Cloudflare（本地电信-100M-·-Tuic）"><a href="#Cloudflare（本地电信-100M-·-Tuic）" class="headerlink" title="Cloudflare（本地电信 100M · Tuic）"></a>Cloudflare（本地电信 100M · Tuic）</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031191703692.png" alt="image-20261031191703692"></th></tr></thead></table><hr><h2 id="Fast（本地电信-100M-·-Tuic）"><a href="#Fast（本地电信-100M-·-Tuic）" class="headerlink" title="Fast（本地电信 100M · Tuic）"></a>Fast（本地电信 100M · Tuic）</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031192011782.png" alt="image-20261031192011782"></th></tr></thead></table><hr><h2 id="Fiber-（本地电信-100M-·-Tuic）"><a href="#Fiber-（本地电信-100M-·-Tuic）" class="headerlink" title="Fiber （本地电信 100M · Tuic）"></a>Fiber （本地电信 100M · Tuic）</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031192316571.png" alt="image-20261031192316571"></th></tr></thead></table><hr><h2 id="YouTube（本地电信-100M-·-Tuic）"><a href="#YouTube（本地电信-100M-·-Tuic）" class="headerlink" title="YouTube（本地电信 100M · Tuic）"></a>YouTube（本地电信 100M · Tuic）</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031192457357.png" alt="image-20261031192457357"></th><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031192522161.png" alt="image-20261031192522161"></th></tr></thead></table><hr><h2 id="过盾测试"><a href="#过盾测试" class="headerlink" title="过盾测试"></a>过盾测试</h2><p><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031192703601.png" alt="image-20261031192703601"></p><hr><h2 id="IP检测"><a href="#IP检测" class="headerlink" title="IP检测"></a>IP检测</h2><p><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031192910270.png" alt="image-20261031192910270"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261031192934541.png" alt="image-20261031192934541"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 新加坡 VPS 测评 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> VPS测评 </tag>
+            
+            <tag> 新加坡 </tag>
+            
+            <tag> VPS.TAXI </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Beszel 部署文档</title>
       <link href="/posts/tutorials/beszel-deployment/"/>
       <url>/posts/tutorials/beszel-deployment/</url>
@@ -107,9 +136,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> 美国 </tag>
-            
             <tag> BandwagonHost </tag>
+            
+            <tag> 美国 </tag>
             
         </tags>
       
@@ -136,9 +165,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> 美国 </tag>
-            
             <tag> BandwagonHost </tag>
+            
+            <tag> 美国 </tag>
             
         </tags>
       
@@ -426,9 +455,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> 美国 </tag>
-            
             <tag> BandwagonHost </tag>
+            
+            <tag> 美国 </tag>
             
         </tags>
       
@@ -542,9 +571,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> 美国 </tag>
-            
             <tag> BandwagonHost </tag>
+            
+            <tag> 美国 </tag>
             
         </tags>
       
@@ -629,9 +658,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> 新加坡 </tag>
-            
             <tag> LIASAIL </tag>
+            
+            <tag> 新加坡 </tag>
             
         </tags>
       
@@ -716,9 +745,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> AaITR </tag>
-            
             <tag> 美国 </tag>
+            
+            <tag> AaITR </tag>
             
         </tags>
       
@@ -890,9 +919,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> 美国 </tag>
-            
             <tag> BandwagonHost </tag>
+            
+            <tag> 美国 </tag>
             
         </tags>
       
@@ -1093,9 +1122,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> 新加坡 </tag>
-            
             <tag> Orange </tag>
+            
+            <tag> 新加坡 </tag>
             
         </tags>
       
@@ -1557,9 +1586,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> OVHcloud </tag>
-            
             <tag> 新加坡 </tag>
+            
+            <tag> OVHcloud </tag>
             
         </tags>
       
@@ -1789,9 +1818,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> 香港 </tag>
-            
             <tag> BandwagonHost </tag>
+            
+            <tag> 香港 </tag>
             
         </tags>
       
@@ -2427,9 +2456,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> 香港 </tag>
-            
             <tag> BandwagonHost </tag>
+            
+            <tag> 香港 </tag>
             
         </tags>
       
