@@ -5,8 +5,24 @@
   <link href="https://blog.ooork.com/atom.xml" rel="self"/>
   <link href="https://blog.ooork.com/"/>
   <id>https://blog.ooork.com/</id>
-  <updated>2026-11-01T02:43:25.402Z</updated>
+  <updated>2026-11-07T13:37:52.264Z</updated>
   <author><name>Lusky</name></author>
+  <entry>
+    <title>Zgo Los Angeles AMD</title>
+    <link href="https://blog.ooork.com/posts/Zgo%20Los%20Angeles%20AMD/"/>
+    <id>https://blog.ooork.com/posts/Zgo%20Los%20Angeles%20AMD/</id>
+    <published>2026-11-07T12:20:35.000Z</published>
+    <updated>2026-11-07T12:20:35.000Z</updated>
+    <summary>Zgo Los Angeles AMD 美国 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
+  <entry>
+    <title>汐云香港三网精品</title>
+    <link href="https://blog.ooork.com/posts/%E6%B1%90%E4%BA%91%E9%A6%99%E6%B8%AF%E4%B8%89%E7%BD%91%E7%B2%BE%E5%93%81/"/>
+    <id>https://blog.ooork.com/posts/%E6%B1%90%E4%BA%91%E9%A6%99%E6%B8%AF%E4%B8%89%E7%BD%91%E7%B2%BE%E5%93%81/</id>
+    <published>2026-11-06T11:24:19.000Z</published>
+    <updated>2026-11-06T11:24:19.000Z</updated>
+    <summary>汐云香港三网精品 香港 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
   <entry>
     <title>SG ISP</title>
     <link href="https://blog.ooork.com/posts/VPS.TAXI%20SG%20ISP/"/>
@@ -390,21 +406,5 @@
     <published>2026-07-14T14:38:01.000Z</published>
     <updated>2026-07-14T14:38:01.000Z</updated>
     <summary>CSTServer CVM EX HKX2 香港 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>EUGAMEHOST Server Hunter Micro VPS</title>
-    <link href="https://blog.ooork.com/posts/EUGAMEHOST%20Server%20Hunter%20Micro%20VPS/"/>
-    <id>https://blog.ooork.com/posts/EUGAMEHOST%20Server%20Hunter%20Micro%20VPS/</id>
-    <published>2026-07-13T14:59:55.000Z</published>
-    <updated>2026-07-13T14:59:55.000Z</updated>
-    <summary>EUGAMEHOST Server Hunter Micro VPS 综合 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>DartNode West 7</title>
-    <link href="https://blog.ooork.com/posts/DartNode%20West%207/"/>
-    <id>https://blog.ooork.com/posts/DartNode%20West%207/</id>
-    <published>2026-07-13T00:47:22.000Z</published>
-    <updated>2026-07-13T00:47:22.000Z</updated>
-    <summary>DartNode West 7 美国 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
   </entry>
 </feed>
