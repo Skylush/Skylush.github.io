@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>【测评】【VMISS】【LA TRI NEW】</title>
+      <link href="/posts/VIMSS%20LA%20TRI%20NEW/"/>
+      <url>/posts/VIMSS%20LA%20TRI%20NEW/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>本文为 VMISS LA TRI NEW VPS 测试数据整理，包含机器配置、硬件性能、线路质量、回程路由、延迟、IP 质量与流媒体解锁等结果。</p></blockquote><h2 id="机器配置"><a href="#机器配置" class="headerlink" title="机器配置"></a>机器配置</h2><table><thead><tr><th align="center">VPS 购买地址⬇️</th><th>优惠码</th><th align="center">SKU</th><th align="center">CPU</th><th align="center">RAM</th><th align="center">SSD</th><th align="center">Traffic</th><th align="center">IP</th><th align="center">限时价格</th></tr></thead><tbody><tr><td align="center"><a href="https://app.vmiss.com/aff.php?aff=5806&pid=25">VMISS</a></td><td><strong>10%OFF</strong></td><td align="center"><strong>US.LA.TRI.Basic</strong></td><td align="center">1C</td><td align="center">1G</td><td align="center">10G</td><td align="center">500G&#x2F; 200Mbps</td><td align="center">IPv4</td><td align="center"><strong>8CAD&#x2F;Month</strong></td></tr></tbody></table><hr><h2 id="系统参数硬件性能"><a href="#系统参数硬件性能" class="headerlink" title="系统参数硬件性能"></a>系统参数硬件性能</h2><hr><p><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113123141258.png" alt="image-20261113123141258"></p><hr><h2 id="ITdog-—-IPv4-质量测试"><a href="#ITdog-—-IPv4-质量测试" class="headerlink" title="ITdog — IPv4 质量测试"></a>ITdog — IPv4 质量测试</h2><table><thead><tr><th align="center">CM</th><th align="center">CU</th><th align="center">CT</th></tr></thead><tbody><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113123513062.png" alt="image-20261113123513062"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113123545452.png" alt="image-20261113123545452"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113123532292.png" alt="image-20261113123532292"></td></tr></tbody></table><hr><h2 id="Connectivity"><a href="#Connectivity" class="headerlink" title="Connectivity"></a>Connectivity</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113123746883.png" alt="image-20261113123746883"></th></tr></thead></table><hr><h2 id="去程路由"><a href="#去程路由" class="headerlink" title="去程路由"></a>去程路由</h2><table><thead><tr><th align="center"></th><th align="center">CM</th><th align="center">CU</th><th align="center">CT</th></tr></thead><tbody><tr><td align="center">北京</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113123938069.png" alt="image-20261113123938069"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113124003781.png" alt="image-20261113124003781"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113124033501.png" alt="image-20261113124033501"></td></tr><tr><td align="center">上海</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113124056774.png" alt="image-20261113124056774"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113124116279.png" alt="image-20261113124116279"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113124135917.png" alt="image-20261113124135917"></td></tr><tr><td align="center">广东</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113124155258.png" alt="image-20261113124155258"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113124215041.png" alt="image-20261113124215041"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113124235554.png" alt="image-20261113124235554"></td></tr></tbody></table><hr><h2 id="回程路由"><a href="#回程路由" class="headerlink" title="回程路由"></a>回程路由</h2><table><thead><tr><th align="center">北京</th><th align="center">上海</th><th align="center">广东</th></tr></thead><tbody><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113131538562.png" alt="image-20261113131538562"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113131556430.png" alt="image-20261113131556430"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113131608138.png" alt="image-20261113131608138"></td></tr></tbody></table><hr><h2 id="国内三网延迟"><a href="#国内三网延迟" class="headerlink" title="国内三网延迟"></a>国内三网延迟</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113130023976.png" alt="image-20261113130023976"></th></tr></thead></table><hr><h2 id="IP-质量"><a href="#IP-质量" class="headerlink" title="IP 质量"></a>IP 质量</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113125153238.png" alt="image-20261113125153238"></th></tr></thead></table><hr><h2 id="流媒体解锁"><a href="#流媒体解锁" class="headerlink" title="流媒体解锁"></a>流媒体解锁</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113132407537.png" alt="image-20261113132407537"></th></tr></thead></table><h2 id="TCP-重传检测"><a href="#TCP-重传检测" class="headerlink" title="TCP 重传检测"></a>TCP 重传检测</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113134659360.png" alt="image-20261113134659360"></th><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113134716076.png" alt="image-20261113134716076"></th><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113134606601.png" alt="image-20261113134606601"></th><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113134513220.png" alt="image-20261113134513220"></th><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113134442879.png" alt="image-20261113134442879"></th></tr></thead></table><hr><h2 id="心跳线"><a href="#心跳线" class="headerlink" title="心跳线"></a>心跳线</h2><p><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113134854070.png" alt="image-20261113134854070"></p><hr><h2 id="Speedtest"><a href="#Speedtest" class="headerlink" title="Speedtest"></a>Speedtest</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113135135766.png" alt="image-20261113135135766"></th><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113135858478.png" alt="image-20261113135858478"></th></tr></thead></table><hr><h2 id="Speedtest（本地电信-100M-·-Rrality）"><a href="#Speedtest（本地电信-100M-·-Rrality）" class="headerlink" title="Speedtest（本地电信 100M · Rrality）"></a>Speedtest（本地电信 100M · Rrality）</h2><table><thead><tr><th align="center">多线程</th><th align="center">单线程</th></tr></thead><tbody><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113140214552.png" alt="image-20261113140214552"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113140351846.png" alt="image-20261113140351846"></td></tr></tbody></table><hr><h2 id="IPerf3（DMIT-HKG-T1）"><a href="#IPerf3（DMIT-HKG-T1）" class="headerlink" title="IPerf3（DMIT HKG T1）"></a>IPerf3（DMIT HKG T1）</h2><table><thead><tr><th align="center">UP</th><th align="center">DOWN</th></tr></thead><tbody><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113140609324.png" alt="image-20261113140609324"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113140623162.png" alt="image-20261113140623162"></td></tr></tbody></table><hr><h2 id="IPerf3（本地电信-100M）"><a href="#IPerf3（本地电信-100M）" class="headerlink" title="IPerf3（本地电信 100M）"></a>IPerf3（本地电信 100M）</h2><table><thead><tr><th align="center">UP</th><th align="center">DOWN</th></tr></thead><tbody><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113142335272.png" alt="image-20261113142335272"></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113142407442.png" alt="image-20261113142407442"></td></tr></tbody></table><hr><h2 id="Cloudflare（本地电信-100M-·-Rrality）"><a href="#Cloudflare（本地电信-100M-·-Rrality）" class="headerlink" title="Cloudflare（本地电信 100M · Rrality）"></a>Cloudflare（本地电信 100M · Rrality）</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113140905063.png" alt="image-20261113140905063"></th></tr></thead></table><hr><h2 id="Fast（本地电信-100M-·-Rrality）"><a href="#Fast（本地电信-100M-·-Rrality）" class="headerlink" title="Fast（本地电信 100M · Rrality）"></a>Fast（本地电信 100M · Rrality）</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113141031351.png" alt="image-20261113141031351"></th></tr></thead></table><hr><h2 id="Fiber-（本地电信-100M-·-Rrality）"><a href="#Fiber-（本地电信-100M-·-Rrality）" class="headerlink" title="Fiber （本地电信 100M · Rrality）"></a>Fiber （本地电信 100M · Rrality）</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113141257219.png" alt="image-20261113141257219"></th></tr></thead></table><hr><h2 id="YouTube（本地电信-100M-·-Rrality）"><a href="#YouTube（本地电信-100M-·-Rrality）" class="headerlink" title="YouTube（本地电信 100M · Rrality）"></a>YouTube（本地电信 100M · Rrality）</h2><table><thead><tr><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113141508177.png" alt="image-20261113141508177"></th><th><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113141558214.png" alt="image-20261113141558214"></th></tr></thead></table><hr><h2 id="过盾测试"><a href="#过盾测试" class="headerlink" title="过盾测试"></a>过盾测试</h2><p><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113141735672.png" alt="image-20261107134336571"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113141818081.png" alt="image-20261113141818081"></p><hr><h2 id="IP检测"><a href="#IP检测" class="headerlink" title="IP检测"></a>IP检测</h2><p><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113141903614.png" alt="image-20261107134450465"><img src="https://cdn.jsdelivr.net/gh/Skylush/tuchuang@main/img/image-20261113141921935.png" alt="image-20261113141921935"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 美国 VPS 测评 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> VPS测评 </tag>
+            
+            <tag> 美国 </tag>
+            
+            <tag> VMISS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【测评】【ZgoCloud】【Zgo Los Angeles AMD】</title>
       <link href="/posts/Zgo%20Los%20Angeles%20AMD/"/>
       <url>/posts/Zgo%20Los%20Angeles%20AMD/</url>
@@ -252,9 +281,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> 综合 </tag>
-            
             <tag> BandwagonHost </tag>
+            
+            <tag> 综合 </tag>
             
         </tags>
       
@@ -2050,9 +2079,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> 香港 </tag>
-            
             <tag> AndNode </tag>
+            
+            <tag> 香港 </tag>
             
         </tags>
       
@@ -2630,9 +2659,9 @@
             
             <tag> VPS测评 </tag>
             
-            <tag> AetherCloud </tag>
-            
             <tag> 香港 </tag>
+            
+            <tag> AetherCloud </tag>
             
         </tags>
       

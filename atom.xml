@@ -5,8 +5,16 @@
   <link href="https://blog.ooork.com/atom.xml" rel="self"/>
   <link href="https://blog.ooork.com/"/>
   <id>https://blog.ooork.com/</id>
-  <updated>2026-11-07T13:37:52.264Z</updated>
+  <updated>2026-11-13T06:51:28.934Z</updated>
   <author><name>Lusky</name></author>
+  <entry>
+    <title>LA TRI NEW</title>
+    <link href="https://blog.ooork.com/posts/VIMSS%20LA%20TRI%20NEW/"/>
+    <id>https://blog.ooork.com/posts/VIMSS%20LA%20TRI%20NEW/</id>
+    <published>2026-11-13T06:32:36.000Z</published>
+    <updated>2026-11-13T06:32:36.000Z</updated>
+    <summary>LA TRI NEW 美国 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
   <entry>
     <title>Zgo Los Angeles AMD</title>
     <link href="https://blog.ooork.com/posts/Zgo%20Los%20Angeles%20AMD/"/>
@@ -398,13 +406,5 @@
     <published>2026-07-14T22:51:58.000Z</published>
     <updated>2026-07-14T22:51:58.000Z</updated>
     <summary>Lightlayer SJ-VP04-L 美国 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>CSTServer CVM EX HKX2</title>
-    <link href="https://blog.ooork.com/posts/CSTServer%20CVM%20EX%20HKX2/"/>
-    <id>https://blog.ooork.com/posts/CSTServer%20CVM%20EX%20HKX2/</id>
-    <published>2026-07-14T14:38:01.000Z</published>
-    <updated>2026-07-14T14:38:01.000Z</updated>
-    <summary>CSTServer CVM EX HKX2 香港 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
   </entry>
 </feed>
