@@ -5,8 +5,24 @@
   <link href="https://blog.ooork.com/atom.xml" rel="self"/>
   <link href="https://blog.ooork.com/"/>
   <id>https://blog.ooork.com/</id>
-  <updated>2026-11-13T06:51:28.934Z</updated>
+  <updated>2026-11-19T09:39:39.249Z</updated>
   <author><name>Lusky</name></author>
+  <entry>
+    <title>VPS Nano DMCA</title>
+    <link href="https://blog.ooork.com/posts/AVAHosting%20VPS%20Nano%20DMCA/"/>
+    <id>https://blog.ooork.com/posts/AVAHosting%20VPS%20Nano%20DMCA/</id>
+    <published>2026-11-19T09:37:38.000Z</published>
+    <updated>2026-11-19T09:37:38.000Z</updated>
+    <summary>VPS Nano DMCA VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
+  <entry>
+    <title>📼 录播姬 BililiveRecorder</title>
+    <link href="https://blog.ooork.com/posts/tutorials/bililive-recorder-docker-guide/"/>
+    <id>https://blog.ooork.com/posts/tutorials/bililive-recorder-docker-guide/</id>
+    <published>2026-11-16T09:59:06.000Z</published>
+    <updated>2026-11-16T09:59:06.000Z</updated>
+    <summary>📼 录播姬 BililiveRecorder 教程 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
+  </entry>
   <entry>
     <title>LA TRI NEW</title>
     <link href="https://blog.ooork.com/posts/VIMSS%20LA%20TRI%20NEW/"/>
@@ -44,7 +60,7 @@
     <link href="https://blog.ooork.com/posts/tutorials/beszel-deployment/"/>
     <id>https://blog.ooork.com/posts/tutorials/beszel-deployment/</id>
     <published>2026-10-27T12:21:48.000Z</published>
-    <updated>2026-10-27T12:21:48.000Z</updated>
+    <updated>2026-10-30T03:14:37.000Z</updated>
     <summary>Beszel 部署文档 教程 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
   </entry>
   <entry>
@@ -188,7 +204,7 @@
     <link href="https://blog.ooork.com/posts/BWH%20US%20Fremont_California_USCA_FMT/"/>
     <id>https://blog.ooork.com/posts/BWH%20US%20Fremont_California_USCA_FMT/</id>
     <published>2026-09-12T19:21:24.000Z</published>
-    <updated>2026-09-12T19:21:24.000Z</updated>
+    <updated>2026-09-14T14:57:35.000Z</updated>
     <summary>BWH US Fremont California USCA FMT 美国 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
   </entry>
   <entry>
@@ -390,21 +406,5 @@
     <published>2026-07-15T14:16:22.000Z</published>
     <updated>2026-07-15T14:16:22.000Z</updated>
     <summary>CSTServer CVM EX LAX2 美国 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>Geelinx EXP C MY</title>
-    <link href="https://blog.ooork.com/posts/Geelinx%20EXP%20C%20MY/"/>
-    <id>https://blog.ooork.com/posts/Geelinx%20EXP%20C%20MY/</id>
-    <published>2026-07-15T03:13:09.000Z</published>
-    <updated>2026-07-15T03:13:09.000Z</updated>
-    <summary>Geelinx EXP C MY 马来西亚 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
-  </entry>
-  <entry>
-    <title>Lightlayer SJ-VP04-L</title>
-    <link href="https://blog.ooork.com/posts/Lightlayer%20SJ-VP04-L/"/>
-    <id>https://blog.ooork.com/posts/Lightlayer%20SJ-VP04-L/</id>
-    <published>2026-07-14T22:51:58.000Z</published>
-    <updated>2026-07-14T22:51:58.000Z</updated>
-    <summary>Lightlayer SJ-VP04-L 美国 VPS 测评，整理机器配置、硬件性能、三网延迟、去程回程路由、IP 质量、流媒体解锁、Speedtest 与网络稳定性数据。</summary>
   </entry>
 </feed>
